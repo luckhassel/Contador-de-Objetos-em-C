@@ -1,5 +1,3 @@
-# Disk-Pizza-C
-Disk Pizza em C
-
-Projeto realizado no segundo semestre de engenharia elétrica - ênfase em sistemas embarcados pela UFPR.
-Objetivo de criar um disk pizza utilizando Structs.
+# Disk-Pizza
+Project developed on the second semester of electrical engineering at Federal University of Parana.
+Main goal was to create a disk pizza using concepts of C language like structs and functions.
